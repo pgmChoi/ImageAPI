@@ -1,5 +1,4 @@
-# ImageAPI
-
+# DB 생성 명령어
 # DB Database 
 create database naver_image;
 use naver_image;
