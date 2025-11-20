@@ -14,8 +14,8 @@ import NData.NaverValues;
 public class NaverAPI_DB {
 	
 	//네이버 개발자 센터에서 발급받은 키
-	private static final String CLIENT_ID = "WQfRfJsNk9w69Iy_xJdf";
-	private static final String CLIENT_SECRET = "dD0Ac8QkSn";
+	private static final String CLIENT_ID = "네이버_개발자_센터에서_발급_받은_키_입력";
+	private static final String CLIENT_SECRET = "스크릿_키_입력";
 	
 	String text = null;
 	//1. 검색어(keyword)를 받아 네이버 API를 호출하고 결과를 파싱하는 메서드
